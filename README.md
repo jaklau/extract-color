@@ -1,4 +1,8 @@
 # extract-color
 This is a page where you can extract main colors from image file.
-Based on Flask.
-Check out page: 
+Page is based on Flask.
+Data manipulation is based on sklearn
+
+
+## screenshot from web page
+![alt text](/screenshot.PNG)
