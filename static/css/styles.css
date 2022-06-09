@@ -1,0 +1,36 @@
+.form-page {
+    background-color: #fcfcfc;
+    text-align: center;
+    margin: 50px auto;
+    max-width: 300px;
+    border: 1px solid #6e6e6e;
+    border-radius: 3%;
+    padding: 10px;
+    }
+
+.img-box {
+    width: 100%;
+    }
+
+.img-page {
+    background-color: #fcfcfc;
+    max-width: 900px;
+    border: 1px solid #6e6e6e;
+    margin: 0 auto 50px;
+    }
+
+.table-box {
+    padding: 20px;
+    }
+
+.color-palette {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #6e6e6e;
+    }
+
+.table td, .table th {
+    text-align: center!important;
+    vertical-align: middle!important;
+    }
+
